@@ -10,3 +10,4 @@ for more of them. Furthermore large number of one-family-houses reduces demand, 
 owners of electric car install charger on their private property. However reliable and
 free data about ratios of housing types is not or only partly available.
 # ASE_Heatmaps
+# ASE_Heatmaps
